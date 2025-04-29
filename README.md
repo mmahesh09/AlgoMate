@@ -1,5 +1,13 @@
 # AlgoMate
 
+
+
+> AlgoMate ⚡ is your AI-powered coding interview buddy.
+Practice real coding questions, simulate mock interviews, and get instant feedback with GPT-4.
+Boost your skills, track progress, and ace every interview.
+Code. Practice. Conquer. 💻🧠🎯
+
+
 **Your AI-powered coding interview buddy.**
 
 AlgoMate is a web app that helps developers prepare for technical interviews with smart, GPT-4 generated coding questions, real-time feedback, and mock interview sessions — all in one sleek platform.
