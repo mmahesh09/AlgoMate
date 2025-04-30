@@ -8,11 +8,17 @@ Boost your skills, track progress, and ace every interview.
 Code. Practice. Conquer. 💻🧠🎯
 
 
+
+
+
 **Your AI-powered coding interview buddy.**
 
-AlgoMate is a web app that helps developers prepare for technical interviews with smart, GPT-4 generated coding questions, real-time feedback, and mock interview sessions — all in one sleek platform.
+AlgoMate is a web app that helps developers prepare for technical interviews with smart, GPT-4-generated
+coding questions, real-time feedback, and mock interview sessions — all in one sleek platform.
 
----
+
+
+
 
 ## Features
 
