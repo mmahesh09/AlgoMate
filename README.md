@@ -11,6 +11,7 @@ Code. Practice. Conquer. 💻🧠🎯
 
 
 
+
 **Your AI-powered coding interview buddy.**
 
 AlgoMate is a web app that helps developers prepare for technical interviews with smart, GPT-4-generated
